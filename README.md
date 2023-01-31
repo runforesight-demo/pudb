@@ -10,7 +10,6 @@
 ![Test Result](https://api-public.service.runforesight.com/api/v1/badge/test?repoId=0b5e63cb-3463-4764-932b-f82412bb90cb)
 ![Utilization](https://api-public.service.runforesight.com/api/v1/badge/utilization?repoId=0b5e63cb-3463-4764-932b-f82412bb90cb)
 
-
 | Report Attribute  | Value   | 
 |---|---|
 | Language  | Python |
